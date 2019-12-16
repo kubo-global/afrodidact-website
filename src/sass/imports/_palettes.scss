@@ -76,7 +76,7 @@
     &.bg-accent {
       background: _palette(accent-purple);
       background: -webkit-linear-gradient(left,_palette(accent-purple), _palette(accent-purple-alt));
-      background: linear-gradient(to right,_palette(accent-purple), _palette(accent-purple-alt));
+      background: linear-gradient(to bottom right,_palette(accent-purple), _palette(accent-purple-alt));
     }
   }
 }
@@ -155,7 +155,7 @@
     &.bg-accent {
       background: _palette(accent-green);
       background: -webkit-linear-gradient(left,_palette(accent-green), _palette(accent-green-alt));
-      background: linear-gradient(to right,_palette(accent-green), _palette(accent-green-alt));
+      background: linear-gradient(to bottom right,_palette(accent-green), _palette(accent-green-alt));
     }
   }
 }
@@ -234,7 +234,7 @@
     &.bg-accent {
       background: _palette(accent-orange);
       background: -webkit-linear-gradient(left,_palette(accent-orange), _palette(accent-orange-alt));
-      background: linear-gradient(to right,_palette(accent-orange), _palette(accent-orange-alt));
+      background: linear-gradient(to bottom right,_palette(accent-orange), _palette(accent-orange-alt));
     }
   }
 }
