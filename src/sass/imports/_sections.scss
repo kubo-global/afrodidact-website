@@ -544,7 +544,7 @@
   &.bg-accent {
     background: _palette(accent);
     background: -webkit-linear-gradient(left,_palette(accent), _palette(accent-alt));
-    background: linear-gradient(to right,_palette(accent), _palette(accent-alt));
+    background: linear-gradient(to bottom right,_palette(accent), _palette(accent-alt));
     color: #fff;
 
     .block-title {
