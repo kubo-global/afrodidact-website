@@ -10,6 +10,7 @@ import SectionHero from './SectionHero';
 import SectionPosts from './SectionPosts';
 import SectionPricing from './SectionPricing';
 import SectionReviews from './SectionReviews';
+import SectionYoutube from './SectionYoutube';
 import Social from './Social';
 import SubscribeForm from './SubscribeForm';
 import Layout from './Layout';
@@ -27,6 +28,7 @@ export {
     SectionPosts,
     SectionPricing,
     SectionReviews,
+    SectionYoutube,
     Social,
     SubscribeForm,
     Layout
@@ -45,6 +47,7 @@ export default {
     SectionPosts,
     SectionPricing,
     SectionReviews,
+    SectionYoutube,
     Social,
     SubscribeForm,
     Layout

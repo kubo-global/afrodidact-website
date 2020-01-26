@@ -22,6 +22,7 @@ import section_posts from './section_posts.js';
 import section_pricing from './section_pricing.js';
 import section_reviews from './section_reviews.js';
 import section_contact from './section_contact.js';
+import section_youtube from './section_youtube.js';
 import action from './action.js';
 import site_menus from './site_menus.js';
 import site_menu_item from './site_menu_item.js';
@@ -53,6 +54,7 @@ export default createSchema({
     section_pricing,
     section_reviews,
     section_contact,
+    section_youtube,
     action,
     site_menus,
     site_menu_item,
